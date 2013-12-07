@@ -20,12 +20,14 @@ divided two or three : group work
 
 ---
 #Educational Effect
-* Search information and Remixing
+*Learn about morals on the Internet
+*
 
 skill
 
-* Presentation Skill
-* deep Knowledge for own country
+* Presentation Skills
+* Searching Skills
+* Film making Skills
 
 ---
 #Item/Material/System
