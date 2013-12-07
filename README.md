@@ -20,8 +20,8 @@ divided two or three : group work
 
 ---
 #Educational Effect
-*Learn about morals on the Internet
-*
+* Learn about morals on the Internet
+* Lean how to express what they thing effectively
 
 skill
 
@@ -33,5 +33,5 @@ skill
 #Item/Material/System
 * PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
 * Popcorn Maker
-* Screen for presentation
+* [ネチケットを学ぼう！(disney)](http://www.disney.co.jp/netiquette/)
 ---
