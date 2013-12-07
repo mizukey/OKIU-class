@@ -3,7 +3,7 @@
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-中学生 (13-15)
+Junior high school (13-15)
 
 
 ![IMG_2918.JPG](http://cache5.amana.jp/preview640/11014009542.jpg)
